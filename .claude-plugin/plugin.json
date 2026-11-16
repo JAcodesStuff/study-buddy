@@ -1,0 +1,8 @@
+{
+  "name": "study-buddy",
+  "description": "A study coach with Tutor, Classmate, Teacher, and Little Brother learning modes.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Study Buddy contributors"
+  }
+}
